@@ -31,7 +31,7 @@ section {
 /* Loader */
 
 .loader-container {
-    height: 100vh;
+    height: 120vh;
     background-color: #000;
     display: flex;
     justify-content: center;
