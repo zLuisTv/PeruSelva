@@ -416,8 +416,9 @@ h2.bg2__title,
 /* Testimonies */
 
 .testimony-content {
+    padding-top: 250px;
     background: linear-gradient(rgba(225, 226, 230), rgba(57, 153, 68, 0.532));
-    padding: 50px;
+    height: 150vh;
 }
 
 .testimony-content h2 {
@@ -438,8 +439,8 @@ h2.bg2__title,
     background-color: #269f8f;
     display: flex;
     flex-direction: row;
-    width: 46%;
-    height: 515px;
+    width: 40%;
+    height: 550px;
     justify-content: space-evenly;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
     border-radius: 10px;
@@ -475,7 +476,7 @@ h2.bg2__title,
 .text-card-content a {
     color: #fff;
     font-size: 25px;
-    padding: 110px;
+    margin-left: 115px;
 }
 
 .text-card-content a:hover {
@@ -527,4 +528,11 @@ h2.bg2__title,
     font-size: 30px;
     text-transform: uppercase;
     color: #fff;
+}
+
+/* Services */
+
+.services {
+    height: 100px;
+    background-color: #323337;
 }
